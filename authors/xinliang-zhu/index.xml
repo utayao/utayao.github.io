@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xinliang Zhu | Academic</title>
+    <link>https://utayao.github.io/authors/xinliang-zhu/</link>
+      <atom:link href="https://utayao.github.io/authors/xinliang-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xinliang Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Xinliang Zhu</title>
+      <link>https://utayao.github.io/authors/xinliang-zhu/</link>
+    </image>
+    
+    <item>
+      <title>Deep Multi-instance Learning for Survival Prediction from Whole Slide Images</title>
+      <link>https://utayao.github.io/publication/yao-deep-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://utayao.github.io/publication/yao-deep-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cohesion-driven online actor-critic reinforcement learning for mhealth intervention</title>
+      <link>https://utayao.github.io/publication/zhu-cohesion-driven-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://utayao.github.io/publication/zhu-cohesion-driven-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph CNN for survival analysis on whole slide pathological images</title>
+      <link>https://utayao.github.io/publication/li-graph-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://utayao.github.io/publication/li-graph-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep correlational learning for survival prediction from multi-modality data</title>
+      <link>https://utayao.github.io/publication/yao-deep-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://utayao.github.io/publication/yao-deep-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wsisa: Making survival prediction from whole slide histopathological images</title>
+      <link>https://utayao.github.io/publication/zhu-wsisa-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://utayao.github.io/publication/zhu-wsisa-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep convolutional neural network for survival analysis with pathological images</title>
+      <link>https://utayao.github.io/publication/zhu-deep-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://utayao.github.io/publication/zhu-deep-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imaging biomarker discovery for lung cancer survival prediction</title>
+      <link>https://utayao.github.io/publication/yao-imaging-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://utayao.github.io/publication/yao-imaging-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Imaging-genetic data mapping for clinical outcome prediction via supervised conditional gaussian graphical model</title>
+      <link>https://utayao.github.io/publication/zhu-imaging-genetic-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://utayao.github.io/publication/zhu-imaging-genetic-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lung cancer survival prediction from pathological images and genetic data—An integration study</title>
+      <link>https://utayao.github.io/publication/zhu-lung-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://utayao.github.io/publication/zhu-lung-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
