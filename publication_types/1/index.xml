@@ -5,7 +5,7 @@
     <link>https://utayao.github.io/publication_types/1/</link>
       <atom:link href="https://utayao.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>DeepPrognosis: Preoperative Prediction of Pancreatic Cancer Survival and Surgical Margin via Contrast-Enhanced CT Imaging</title>
+      <link>https://utayao.github.io/publication/yao-deepprog-2020/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://utayao.github.io/publication/yao-deepprog-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Multi-instance Learning for Survival Prediction from Whole Slide Images</title>
       <link>https://utayao.github.io/publication/yao-deep-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://utayao.github.io/publication/yao-deep-2019/</guid>
       <description></description>
     </item>

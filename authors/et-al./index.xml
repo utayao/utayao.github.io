@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>et al. | Jiawen Yao</title>
+    <link>/authors/et-al./</link>
+      <atom:link href="/authors/et-al./index.xml" rel="self" type="application/rss+xml" />
+    <description>et al.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>et al.</title>
+      <link>/authors/et-al./</link>
+    </image>
+    
+    <item>
+      <title>DeepPrognosis: Preoperative Prediction of Pancreatic Cancer Survival and Surgical Margin via Contrast-Enhanced CT Imaging</title>
+      <link>/publication/yao-deepprog-2020/</link>
+      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/yao-deepprog-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
