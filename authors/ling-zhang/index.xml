@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ling Zhang | Jiawen Yao</title>
-    <link>/authors/ling-zhang/</link>
-      <atom:link href="/authors/ling-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://utayao.github.io/authors/ling-zhang/</link>
+      <atom:link href="https://utayao.github.io/authors/ling-zhang/index.xml" rel="self" type="application/rss+xml" />
     <description>Ling Zhang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Ling Zhang</title>
-      <link>/authors/ling-zhang/</link>
+      <link>https://utayao.github.io/authors/ling-zhang/</link>
     </image>
     
     <item>
       <title>DeepPrognosis: Preoperative Prediction of Pancreatic Cancer Survival and Surgical Margin via Contrast-Enhanced CT Imaging</title>
-      <link>/publication/yao-deepprog-2020/</link>
+      <link>https://utayao.github.io/publication/yao-deepprog-2020/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/yao-deepprog-2020/</guid>
+      <guid>https://utayao.github.io/publication/yao-deepprog-2020/</guid>
       <description>&lt;p&gt;A Contrast-Enhanced CT prediction model for PDAC.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Robust Pancreatic Ductal Adenocarcinoma Segmentation with Multi-Institutional Multi-Phase Partially-Annotated CT Scans</title>
-      <link>/publication/zhang-pdac-2020/</link>
+      <link>https://utayao.github.io/publication/zhang-pdac-2020/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/zhang-pdac-2020/</guid>
+      <guid>https://utayao.github.io/publication/zhang-pdac-2020/</guid>
       <description></description>
     </item>
     

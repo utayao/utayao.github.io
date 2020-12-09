@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sheng Wang | Jiawen Yao</title>
-    <link>/authors/sheng-wang/</link>
-      <atom:link href="/authors/sheng-wang/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://utayao.github.io/authors/sheng-wang/</link>
+      <atom:link href="https://utayao.github.io/authors/sheng-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Sheng Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Sheng Wang</title>
-      <link>/authors/sheng-wang/</link>
+      <link>https://utayao.github.io/authors/sheng-wang/</link>
     </image>
     
     <item>
       <title>Imaging biomarker discovery for lung cancer survival prediction</title>
-      <link>/publication/yao-imaging-2016/</link>
+      <link>https://utayao.github.io/publication/yao-imaging-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/yao-imaging-2016/</guid>
+      <guid>https://utayao.github.io/publication/yao-imaging-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Subtype cell detection with an accelerated deep convolution neural network</title>
-      <link>/publication/wang-subtype-2016/</link>
+      <link>https://utayao.github.io/publication/wang-subtype-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/wang-subtype-2016/</guid>
+      <guid>https://utayao.github.io/publication/wang-subtype-2016/</guid>
       <description></description>
     </item>
     

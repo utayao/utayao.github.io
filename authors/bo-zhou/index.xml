@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bo Zhou | Jiawen Yao</title>
-    <link>/authors/bo-zhou/</link>
-      <atom:link href="/authors/bo-zhou/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://utayao.github.io/authors/bo-zhou/</link>
+      <atom:link href="https://utayao.github.io/authors/bo-zhou/index.xml" rel="self" type="application/rss+xml" />
     <description>Bo Zhou</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Bo Zhou</title>
-      <link>/authors/bo-zhou/</link>
+      <link>https://utayao.github.io/authors/bo-zhou/</link>
     </image>
     
     <item>
       <title>CT Data Curation for Liver Patients: Phase Recognition in Dynamic Contrast-Enhanced CT</title>
-      <link>/publication/zhou-ct-2019/</link>
+      <link>https://utayao.github.io/publication/zhou-ct-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/zhou-ct-2019/</guid>
+      <guid>https://utayao.github.io/publication/zhou-ct-2019/</guid>
       <description></description>
     </item>
     

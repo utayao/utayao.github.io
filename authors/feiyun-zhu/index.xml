@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Feiyun Zhu | Jiawen Yao</title>
-    <link>/authors/feiyun-zhu/</link>
-      <atom:link href="/authors/feiyun-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://utayao.github.io/authors/feiyun-zhu/</link>
+      <atom:link href="https://utayao.github.io/authors/feiyun-zhu/index.xml" rel="self" type="application/rss+xml" />
     <description>Feiyun Zhu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Feiyun Zhu</title>
-      <link>/authors/feiyun-zhu/</link>
+      <link>https://utayao.github.io/authors/feiyun-zhu/</link>
     </image>
     
     <item>
       <title>Cohesion-driven online actor-critic reinforcement learning for mhealth intervention</title>
-      <link>/publication/zhu-cohesion-driven-2018/</link>
+      <link>https://utayao.github.io/publication/zhu-cohesion-driven-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/zhu-cohesion-driven-2018/</guid>
+      <guid>https://utayao.github.io/publication/zhu-cohesion-driven-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep correlational learning for survival prediction from multi-modality data</title>
-      <link>/publication/yao-deep-2017/</link>
+      <link>https://utayao.github.io/publication/yao-deep-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/yao-deep-2017/</guid>
+      <guid>https://utayao.github.io/publication/yao-deep-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wsisa: Making survival prediction from whole slide histopathological images</title>
-      <link>/publication/zhu-wsisa-2017/</link>
+      <link>https://utayao.github.io/publication/zhu-wsisa-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/zhu-wsisa-2017/</guid>
+      <guid>https://utayao.github.io/publication/zhu-wsisa-2017/</guid>
       <description>&lt;p&gt;Use Deep learning model to predict survival from WSI.&lt;/p&gt;
 </description>
     </item>

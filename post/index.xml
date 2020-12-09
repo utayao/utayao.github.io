@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Jiawen Yao</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://utayao.github.io/post/</link>
+      <atom:link href="https://utayao.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>/post/</link>
+      <link>https://utayao.github.io/post/</link>
     </image>
     
     <item>
       <title>Two papers accepted by MICCAI 2020</title>
-      <link>/post/miccai20/</link>
+      <link>https://utayao.github.io/post/miccai20/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/post/miccai20/</guid>
+      <guid>https://utayao.github.io/post/miccai20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>One paper accepted by MEDIA</title>
-      <link>/post/media20/</link>
+      <link>https://utayao.github.io/post/media20/</link>
       <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>/post/media20/</guid>
+      <guid>https://utayao.github.io/post/media20/</guid>
       <description>&lt;p&gt;Whole Slide Images based Cancer Survival Prediction using Attention Guided Deep Multiple Instance Learning Networks&lt;/p&gt;
 </description>
     </item>

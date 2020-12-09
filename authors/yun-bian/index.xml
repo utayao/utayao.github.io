@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yun Bian | Jiawen Yao</title>
-    <link>/authors/yun-bian/</link>
-      <atom:link href="/authors/yun-bian/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://utayao.github.io/authors/yun-bian/</link>
+      <atom:link href="https://utayao.github.io/authors/yun-bian/index.xml" rel="self" type="application/rss+xml" />
     <description>Yun Bian</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Yun Bian</title>
-      <link>/authors/yun-bian/</link>
+      <link>https://utayao.github.io/authors/yun-bian/</link>
     </image>
     
     <item>
       <title>Robust Pancreatic Ductal Adenocarcinoma Segmentation with Multi-Institutional Multi-Phase Partially-Annotated CT Scans</title>
-      <link>/publication/zhang-pdac-2020/</link>
+      <link>https://utayao.github.io/publication/zhang-pdac-2020/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/zhang-pdac-2020/</guid>
+      <guid>https://utayao.github.io/publication/zhang-pdac-2020/</guid>
       <description></description>
     </item>
     

@@ -2,54 +2,54 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zheng Xu | Jiawen Yao</title>
-    <link>/authors/zheng-xu/</link>
-      <atom:link href="/authors/zheng-xu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://utayao.github.io/authors/zheng-xu/</link>
+      <atom:link href="https://utayao.github.io/authors/zheng-xu/index.xml" rel="self" type="application/rss+xml" />
     <description>Zheng Xu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Zheng Xu</title>
-      <link>/authors/zheng-xu/</link>
+      <link>https://utayao.github.io/authors/zheng-xu/</link>
     </image>
     
     <item>
       <title>A simple primal-dual algorithm for nuclear norm and total variation regularization</title>
-      <link>/publication/zhu-simple-2018/</link>
+      <link>https://utayao.github.io/publication/zhu-simple-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/zhu-simple-2018/</guid>
+      <guid>https://utayao.github.io/publication/zhu-simple-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An efficient algorithm for dynamic MRI using low-rank and total variation regularizations</title>
-      <link>/publication/yao-efficient-2018/</link>
+      <link>https://utayao.github.io/publication/yao-efficient-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/yao-efficient-2018/</guid>
+      <guid>https://utayao.github.io/publication/yao-efficient-2018/</guid>
       <description>&lt;p&gt;The extension version of MICCAI 2015. MATLAB Code is available.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Weakly supervised deep learning for thoracic disease classification and localization on chest x-rays</title>
-      <link>/publication/yan-weakly-2018/</link>
+      <link>https://utayao.github.io/publication/yan-weakly-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/yan-weakly-2018/</guid>
+      <guid>https://utayao.github.io/publication/yan-weakly-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Subtype cell detection with an accelerated deep convolution neural network</title>
-      <link>/publication/wang-subtype-2016/</link>
+      <link>https://utayao.github.io/publication/wang-subtype-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/wang-subtype-2016/</guid>
+      <guid>https://utayao.github.io/publication/wang-subtype-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accelerated dynamic MRI reconstruction with total variation and nuclear norm regularization</title>
-      <link>/publication/yao-accelerated-2015/</link>
+      <link>https://utayao.github.io/publication/yao-accelerated-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/yao-accelerated-2015/</guid>
+      <guid>https://utayao.github.io/publication/yao-accelerated-2015/</guid>
       <description></description>
     </item>
     

@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xin Liu | Jiawen Yao</title>
-    <link>/authors/xin-liu/</link>
-      <atom:link href="/authors/xin-liu/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://utayao.github.io/authors/xin-liu/</link>
+      <atom:link href="https://utayao.github.io/authors/xin-liu/index.xml" rel="self" type="application/rss+xml" />
     <description>Xin Liu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Xin Liu</title>
-      <link>/authors/xin-liu/</link>
+      <link>https://utayao.github.io/authors/xin-liu/</link>
     </image>
     
     <item>
       <title>Background subtraction using spatio-temporal group sparsity recovery</title>
-      <link>/publication/liu-background-2017/</link>
+      <link>https://utayao.github.io/publication/liu-background-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/liu-background-2017/</guid>
+      <guid>https://utayao.github.io/publication/liu-background-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Background subtraction based on low-rank and structured sparse decomposition</title>
-      <link>/publication/liu-background-2015/</link>
+      <link>https://utayao.github.io/publication/liu-background-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/liu-background-2015/</guid>
+      <guid>https://utayao.github.io/publication/liu-background-2015/</guid>
       <description>&lt;p&gt;Extension of ICME 2014, MATLAB code is available.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Foreground detection using low rank and structured sparsity</title>
-      <link>/publication/yao-foreground-2014/</link>
+      <link>https://utayao.github.io/publication/yao-foreground-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/publication/yao-foreground-2014/</guid>
+      <guid>https://utayao.github.io/publication/yao-foreground-2014/</guid>
       <description></description>
     </item>
     
