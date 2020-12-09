@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jitendra Jonnagaddala | Jiawen Yao</title>
-    <link>https://utayao.github.io/authors/jitendra-jonnagaddala/</link>
-      <atom:link href="https://utayao.github.io/authors/jitendra-jonnagaddala/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/jitendra-jonnagaddala/</link>
+      <atom:link href="/authors/jitendra-jonnagaddala/index.xml" rel="self" type="application/rss+xml" />
     <description>Jitendra Jonnagaddala</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jitendra Jonnagaddala</title>
-      <link>https://utayao.github.io/authors/jitendra-jonnagaddala/</link>
+      <link>/authors/jitendra-jonnagaddala/</link>
     </image>
     
     <item>
       <title>Whole Slide Images based Cancer Survival Prediction using Attention Guided Deep Multiple Instance Learning Networks</title>
-      <link>https://utayao.github.io/publication/yao-whole-2020/</link>
+      <link>/publication/yao-whole-2020/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-whole-2020/</guid>
+      <guid>/publication/yao-whole-2020/</guid>
       <description>&lt;p&gt;This is an improved version of our 
 &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-030-32239-7_55&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MICCAI 19&lt;/a&gt; work.&lt;/p&gt;
 </description>

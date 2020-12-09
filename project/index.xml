@@ -2,28 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Jiawen Yao</title>
-    <link>https://utayao.github.io/project/</link>
-      <atom:link href="https://utayao.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 03 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
-      <link>https://utayao.github.io/project/</link>
+      <link>/project/</link>
     </image>
     
     <item>
       <title>Research Project</title>
-      <link>https://utayao.github.io/project/external-project/</link>
+      <link>/project/external-project/</link>
       <pubDate>Sun, 03 May 2020 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/project/external-project/</guid>
+      <guid>/project/external-project/</guid>
       <description>&lt;p&gt;Survival prediction, one very important task in prognosis, now meets many deep learning approaches. Several deep survival learning models are proposed for predicting the surivals of cancer patients from the provided multi-modal data of patients.&lt;/p&gt;
 &lt;p&gt;Technological advances create a great opportunity to provide multi-view data for patients including 3D/4D radiological imaging, High resolutional pathological slides, gene expression, etc. For example in imaging data, traditional surival models mainly rely on explicitly-designed handcrafted features. This process highly relies on domain expert and human intervention which could introduce human bias and limit the use on large scale data.&lt;/p&gt;
-&lt;p&gt;Deep learning have been successfully used in many medical imaging problem including detection, classification, segmentation. That&amp;rsquo;s because those tasks are so important as the first step of computer-aided diagnostic models. When more and more challenges release their data for different applications, this field will definitely attract many scientists and researchers to develop new models and find ways to beat the state-of-the-arts.&lt;/p&gt;
-&lt;p&gt;Survival prediction describes how patients will survival in the future. Depend on the event, it also includes the predication of Overall Survival (OS), Disease Free Survival (DFS) or other prognostic factor prediction. Here we will review recent developments in deep learning survival models.&lt;/p&gt;
-&lt;h2 id=&#34;2020&#34;&gt;2020&lt;/h2&gt;
-&lt;p&gt;[1] Ole-Johan Skrede et al., &amp;ldquo;
-&lt;a href=&#34;https://www.thelancet.com/journals/lancet/article/PIIS0140-6736%2819%2932998-8/fulltext#%20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep learning for prediction of colorectal cancer outcome: a discovery and validation study&lt;/a&gt;&amp;quot;, the Lancet, 2020&lt;/p&gt;
+&lt;p&gt;Deep learning have been successfully used in many medical imaging problem including detection, classification, segmentation.
+Survival prediction describes how patients will survival in the future. Depend on the event, it also includes the predication of Overall Survival (OS), Disease Free Survival (DFS) or other prognostic factor prediction. One of my research work is survival prediction using various imaging modality including CT, pathology and genomics. The following show papers that I authored or co-authored in recent years.&lt;/p&gt;
+&lt;h3 id=&#34;ct&#34;&gt;CT&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://arxiv.org/abs/2008.11853&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;DeepPrognosis: Preoperative Prediction of Pancreatic Cancer Survival and Surgical Margin via Contrast-Enhanced CT Imaging&lt;/a&gt;, In MICCAI 2020.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;pathology&#34;&gt;Pathology&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://arxiv.org/pdf/2009.11169.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Whole Slide Images based Cancer Survival Prediction using Attention Guided Deep Multiple Instance Learning Networks&lt;/a&gt;, Medical Image Analysis, 2020.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-030-32239-7_55&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Multi-instance Learning for Survival Prediction from Whole Slide Images&lt;/a&gt;, In MICCAI 2019.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-030-00934-2_20&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Graph CNN for survival analysis on whole slide pathological images&lt;/a&gt;, In MICCAI 2018.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhu_WSISA_Making_Survival_CVPR_2017_paper.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wsisa: Making survival prediction from whole slide histopathological images&lt;/a&gt;, In CVPR 2017.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;One of earliest work developing weakly-supervised survival model for pathology whole slides.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://ieeexplore.ieee.org/document/7822579&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep convolutional neural network for survival analysis with pathological images&lt;/a&gt;, In BIBM 2016.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The first work developing deep survival model for pathology images, known as DeepConvSurv.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-319-46723-8_75&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Imaging biomarker discovery for lung cancer survival prediction&lt;/a&gt;, In MICCAI 2016.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;image-omics&#34;&gt;Image-Omics&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-319-66185-8_46&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep correlational learning for survival prediction from multi-modality data&lt;/a&gt;, In MICCAI 2017.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://ieeexplore.ieee.org/document/7822559&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Imaging-genetic data mapping for clinical outcome prediction via supervised conditional gaussian graphical model&lt;/a&gt;, In ISBI 2016.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     

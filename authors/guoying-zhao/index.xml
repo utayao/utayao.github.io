@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guoying Zhao | Jiawen Yao</title>
-    <link>https://utayao.github.io/authors/guoying-zhao/</link>
-      <atom:link href="https://utayao.github.io/authors/guoying-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/guoying-zhao/</link>
+      <atom:link href="/authors/guoying-zhao/index.xml" rel="self" type="application/rss+xml" />
     <description>Guoying Zhao</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Guoying Zhao</title>
-      <link>https://utayao.github.io/authors/guoying-zhao/</link>
+      <link>/authors/guoying-zhao/</link>
     </image>
     
     <item>
       <title>Background subtraction using spatio-temporal group sparsity recovery</title>
-      <link>https://utayao.github.io/publication/liu-background-2017/</link>
+      <link>/publication/liu-background-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/liu-background-2017/</guid>
+      <guid>/publication/liu-background-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Background subtraction based on low-rank and structured sparse decomposition</title>
-      <link>https://utayao.github.io/publication/liu-background-2015/</link>
+      <link>/publication/liu-background-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/liu-background-2015/</guid>
+      <guid>/publication/liu-background-2015/</guid>
       <description>&lt;p&gt;Extension of ICME 2014, MATLAB code is available.&lt;/p&gt;
 </description>
     </item>

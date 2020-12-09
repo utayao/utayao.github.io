@@ -2,151 +2,151 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Jiawen Yao</title>
-    <link>https://utayao.github.io/publication_types/1/</link>
-      <atom:link href="https://utayao.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/1/</link>
+      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>1</title>
-      <link>https://utayao.github.io/publication_types/1/</link>
+      <link>/publication_types/1/</link>
     </image>
     
     <item>
       <title>DeepPrognosis: Preoperative Prediction of Pancreatic Cancer Survival and Surgical Margin via Contrast-Enhanced CT Imaging</title>
-      <link>https://utayao.github.io/publication/yao-deepprog-2020/</link>
+      <link>/publication/yao-deepprog-2020/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-deepprog-2020/</guid>
+      <guid>/publication/yao-deepprog-2020/</guid>
       <description>&lt;p&gt;A Contrast-Enhanced CT prediction model for PDAC.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Robust Pancreatic Ductal Adenocarcinoma Segmentation with Multi-Institutional Multi-Phase Partially-Annotated CT Scans</title>
-      <link>https://utayao.github.io/publication/zhang-pdac-2020/</link>
+      <link>/publication/zhang-pdac-2020/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/zhang-pdac-2020/</guid>
+      <guid>/publication/zhang-pdac-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Multi-instance Learning for Survival Prediction from Whole Slide Images</title>
-      <link>https://utayao.github.io/publication/yao-deep-2019/</link>
+      <link>/publication/yao-deep-2019/</link>
       <pubDate>Thu, 10 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-deep-2019/</guid>
+      <guid>/publication/yao-deep-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Integrating 3D Geometry of Organ for Improving Medical Image Segmentation</title>
-      <link>https://utayao.github.io/publication/yao-integrating-2019/</link>
+      <link>/publication/yao-integrating-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-integrating-2019/</guid>
+      <guid>/publication/yao-integrating-2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cohesion-driven online actor-critic reinforcement learning for mhealth intervention</title>
-      <link>https://utayao.github.io/publication/zhu-cohesion-driven-2018/</link>
+      <link>/publication/zhu-cohesion-driven-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/zhu-cohesion-driven-2018/</guid>
+      <guid>/publication/zhu-cohesion-driven-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Graph CNN for survival analysis on whole slide pathological images</title>
-      <link>https://utayao.github.io/publication/li-graph-2018/</link>
+      <link>/publication/li-graph-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/li-graph-2018/</guid>
+      <guid>/publication/li-graph-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Weakly supervised deep learning for thoracic disease classification and localization on chest x-rays</title>
-      <link>https://utayao.github.io/publication/yan-weakly-2018/</link>
+      <link>/publication/yan-weakly-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yan-weakly-2018/</guid>
+      <guid>/publication/yan-weakly-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep correlational learning for survival prediction from multi-modality data</title>
-      <link>https://utayao.github.io/publication/yao-deep-2017/</link>
+      <link>/publication/yao-deep-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-deep-2017/</guid>
+      <guid>/publication/yao-deep-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wsisa: Making survival prediction from whole slide histopathological images</title>
-      <link>https://utayao.github.io/publication/zhu-wsisa-2017/</link>
+      <link>/publication/zhu-wsisa-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/zhu-wsisa-2017/</guid>
+      <guid>/publication/zhu-wsisa-2017/</guid>
       <description>&lt;p&gt;Use Deep learning model to predict survival from WSI.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep convolutional neural network for survival analysis with pathological images</title>
-      <link>https://utayao.github.io/publication/zhu-deep-2016/</link>
+      <link>/publication/zhu-deep-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/zhu-deep-2016/</guid>
+      <guid>/publication/zhu-deep-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Imaging biomarker discovery for lung cancer survival prediction</title>
-      <link>https://utayao.github.io/publication/yao-imaging-2016/</link>
+      <link>/publication/yao-imaging-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-imaging-2016/</guid>
+      <guid>/publication/yao-imaging-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Imaging-genetic data mapping for clinical outcome prediction via supervised conditional gaussian graphical model</title>
-      <link>https://utayao.github.io/publication/zhu-imaging-genetic-2016/</link>
+      <link>/publication/zhu-imaging-genetic-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/zhu-imaging-genetic-2016/</guid>
+      <guid>/publication/zhu-imaging-genetic-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lung cancer survival prediction from pathological images and genetic data—An integration study</title>
-      <link>https://utayao.github.io/publication/zhu-lung-2016/</link>
+      <link>/publication/zhu-lung-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/zhu-lung-2016/</guid>
+      <guid>/publication/zhu-lung-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Subtype cell detection with an accelerated deep convolution neural network</title>
-      <link>https://utayao.github.io/publication/wang-subtype-2016/</link>
+      <link>/publication/wang-subtype-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/wang-subtype-2016/</guid>
+      <guid>/publication/wang-subtype-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Accelerated dynamic MRI reconstruction with total variation and nuclear norm regularization</title>
-      <link>https://utayao.github.io/publication/yao-accelerated-2015/</link>
+      <link>/publication/yao-accelerated-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-accelerated-2015/</guid>
+      <guid>/publication/yao-accelerated-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computer-assisted diagnosis of lung cancer using quantitative topology features</title>
-      <link>https://utayao.github.io/publication/yao-computer-assisted-2015/</link>
+      <link>/publication/yao-computer-assisted-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-computer-assisted-2015/</guid>
+      <guid>/publication/yao-computer-assisted-2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Foreground detection using low rank and structured sparsity</title>
-      <link>https://utayao.github.io/publication/yao-foreground-2014/</link>
+      <link>/publication/yao-foreground-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-foreground-2014/</guid>
+      <guid>/publication/yao-foreground-2014/</guid>
       <description></description>
     </item>
     
