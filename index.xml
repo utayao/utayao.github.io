@@ -5,12 +5,64 @@
     <link>https://utayao.github.io/</link>
       <atom:link href="https://utayao.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiawen Yao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jiawen Yao</title>
       <link>https://utayao.github.io/</link>
     </image>
+    
+    <item>
+      <title>AI in Oncology</title>
+      <link>https://utayao.github.io/project/pancreas-project/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://utayao.github.io/project/pancreas-project/</guid>
+      <description>&lt;h3 id=&#34;purpose&#34;&gt;Purpose:&lt;/h3&gt;
+&lt;p&gt;Accurate prognostic stratification of patients with oropharyngeal squamous cell carcinoma (OPSCC) is crucial. We developed an objective and robust deep learning–based fully- automated tool called the DeepPET-OPSCC biomarker for predict- ing overall survival (OS) in OPSCC using [18F]fluorodeoxyglucose (FDG)-PET imaging.&lt;/p&gt;
+&lt;h3 id=&#34;study-design&#34;&gt;Study Design:&lt;/h3&gt;
+&lt;p&gt;Experimental Design: The DeepPET-OPSCC prediction model was built and tested internally on a discovery cohort (n=268) by integrating five convolutional neural network models for volumetric segmentation and ten models for OS prognostication. Two external test cohorts were enrolled—the first based on the Cancer Imaging Archive (TCIA) database (n=353) and the second being a clinical deployment cohort (n=31)—to assess the DeepPET-OPSCC performance and goodness of fit.&lt;/p&gt;
+&lt;h3 id=&#34;demo-code&#34;&gt;Demo Code:&lt;/h3&gt;
+&lt;p&gt;The DeepPET-OPSCC demo could be found 
+&lt;a href=&#34;https://github.com/deep-med/DeepPET-OPSCC-Example&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;ref&#34;&gt;Ref&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;a href=&#34;https://clincancerres.aacrjournals.org/content/early/2021/06/03/1078-0432.CCR-20-4935&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning for Fully Automated Prediction of Overall
+Survival in Patients with Oropharyngeal Cancer Using
+FDG-PET Imaging&lt;/a&gt;, Clinical Cancer Research, 2021, OnlineFirst.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep learning for fully-automated prediction of overall survival in patients with oropharyngeal cancer using FDG PET imaging</title>
+      <link>https://utayao.github.io/publication/yao-ccr-2021/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://utayao.github.io/publication/yao-ccr-2021/</guid>
+      <description>&lt;p&gt;My co-first authorship clinical paper on oncology.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Work for oncology accepted by CCR</title>
+      <link>https://utayao.github.io/post/media20/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://utayao.github.io/post/media20/</guid>
+      <description>&lt;p&gt;Deep learning for fully-automated prediction of overall survival in patients with oropharyngeal cancer using FDG PET imaging: an international retrospective study. Codes are available !&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One paper accepted by CVPR 2021</title>
+      <link>https://utayao.github.io/post/cvpr2021/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://utayao.github.io/post/cvpr2021/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;title&#34;&gt;&lt;/p&gt;
+&lt;p&gt;We have one CVPR accepted paper on Pacnreas Project for diagnosis. Great work from our Intern 
+&lt;a href=&#34;https://scholar.google.com/citations?user=pErhjgsAAAAJ&amp;amp;hl=en&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tianyi Zhao&lt;/a&gt;. Available on this 
+&lt;a href=&#34;https://arxiv.org/abs/2012.04701&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>DeepPrognosis: Preoperative Prediction of Pancreatic Cancer Survival and Surgical Margin via Contrast-Enhanced CT Imaging</title>
@@ -45,15 +97,6 @@
       <guid>https://utayao.github.io/publication/yao-whole-2020/</guid>
       <description>&lt;p&gt;This is an improved version of our 
 &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-030-32239-7_55&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MICCAI 19&lt;/a&gt; work.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>One paper accepted by MEDIA</title>
-      <link>https://utayao.github.io/post/media20/</link>
-      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/post/media20/</guid>
-      <description>&lt;p&gt;Whole Slide Images based Cancer Survival Prediction using Attention Guided Deep Multiple Instance Learning Networks&lt;/p&gt;
 </description>
     </item>
     
