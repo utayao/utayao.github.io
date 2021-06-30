@@ -1,16 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kai Cao | Jiawen Yao</title>
+    <title>Kai Cao* | Jiawen Yao</title>
     <link>https://utayao.github.io/authors/kai-cao/</link>
       <atom:link href="https://utayao.github.io/authors/kai-cao/index.xml" rel="self" type="application/rss+xml" />
-    <description>Kai Cao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <description>Kai Cao*</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Kai Cao</title>
+      <title>Kai Cao*</title>
       <link>https://utayao.github.io/authors/kai-cao/</link>
     </image>
+    
+    <item>
+      <title>DeepPrognosis: Preoperative Prediction of Pancreatic Cancer Survival and Surgical Margin via Comprehensive Understanding of Dynamic Contrast-Enhanced CT Imaging and Tumor-Vascular Contact Parsing</title>
+      <link>https://utayao.github.io/publication/yao-mediadeepprog-2021/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://utayao.github.io/publication/yao-mediadeepprog-2021/</guid>
+      <description>&lt;p&gt;MICCAI-MedIA (Medical Image Analysis) Special Issue of Best Papers in 2020&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>3D Graph Anatomy Geometry-Integrated Network for Pancreatic Mass Segmentation, Diagnosis, and Quantitative Patient Management</title>
+      <link>https://utayao.github.io/publication/zhao-cvpr-2021/</link>
+      <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://utayao.github.io/publication/zhao-cvpr-2021/</guid>
+      <description>&lt;p&gt;Nice work from our Intern.  It the first work to propose a multiphase CT imaging analysis method for the full-spectrum taxonomy of pancreatic mass/disease diagnosis.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Robust Pancreatic Ductal Adenocarcinoma Segmentation with Multi-Institutional Multi-Phase Partially-Annotated CT Scans</title>
