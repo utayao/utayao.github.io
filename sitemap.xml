@@ -3,82 +3,167 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://utayao.github.io/</loc>
+    <lastmod>2022-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://utayao.github.io/post/miccai20/</loc>
+    <lastmod>2022-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://utayao.github.io/post/</loc>
+    <lastmod>2022-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://utayao.github.io/publication_types/2/</loc>
-    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://utayao.github.io/authors/</loc>
-    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://utayao.github.io/publication/yao-mediadeepprog-2021/</loc>
-    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <loc>https://utayao.github.io/authors/chuanmiao-xie/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://utayao.github.io/publication/yao-as-2022/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://utayao.github.io/authors/feng-gao/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://utayao.github.io/authors/gang-jin/</loc>
-    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://utayao.github.io/authors/hong-lu/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://utayao.github.io/authors/hui-jiang/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://utayao.github.io/authors/isabella-nogues/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://utayao.github.io/authors/jian-zhou/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://utayao.github.io/authors/jianping-lu/</loc>
-    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://utayao.github.io/authors/jiawen-yao/</loc>
-    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://utayao.github.io/</loc>
-    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://utayao.github.io/authors/jing-xiao/</loc>
-    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://utayao.github.io/authors/kai-cao/</loc>
-    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://utayao.github.io/authors/le-lu/</loc>
-    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://utayao.github.io/authors/ling-zhang/</loc>
-    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://utayao.github.io/publication_types/</loc>
-    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://utayao.github.io/publication/</loc>
-    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://utayao.github.io/authors/qike-song/</loc>
-    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://utayao.github.io/authors/rong-zhang/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://utayao.github.io/authors/xianghua-ye/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://utayao.github.io/authors/xuezhou-li/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://utayao.github.io/authors/yafei-qi/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://utayao.github.io/authors/yang-hou/</loc>
-    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://utayao.github.io/authors/yang-zheng/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://utayao.github.io/authors/yingda-xia/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://utayao.github.io/authors/yu-shi/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://utayao.github.io/authors/yu-shi#/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://utayao.github.io/authors/zaiyi-liu/</loc>
+    <lastmod>2022-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://utayao.github.io/publication/yao-mediadeepprog-2021/</loc>
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
   </url>
   
@@ -99,11 +184,6 @@
   
   <url>
     <loc>https://utayao.github.io/publication/zhao-cvpr-2021/</loc>
-    <lastmod>2021-05-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://utayao.github.io/authors/isabella-nogues/</loc>
     <lastmod>2021-05-28T00:00:00+00:00</lastmod>
   </url>
   
@@ -168,11 +248,6 @@
   </url>
   
   <url>
-    <loc>https://utayao.github.io/post/</loc>
-    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://utayao.github.io/authors/shilin-zhao/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url>
@@ -184,11 +259,6 @@
   
   <url>
     <loc>https://utayao.github.io/post/media20/</loc>
-    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://utayao.github.io/authors/xianghua-ye/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url>
   
@@ -220,11 +290,6 @@
   <url>
     <loc>https://utayao.github.io/authors/yun-bian/</loc>
     <lastmod>2020-10-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://utayao.github.io/post/miccai20/</loc>
-    <lastmod>2020-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

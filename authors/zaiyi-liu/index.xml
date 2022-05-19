@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zaiyi Liu | Jiawen Yao</title>
+    <link>https://utayao.github.io/authors/zaiyi-liu/</link>
+      <atom:link href="https://utayao.github.io/authors/zaiyi-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zaiyi Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Zaiyi Liu</title>
+      <link>https://utayao.github.io/authors/zaiyi-liu/</link>
+    </image>
+    
+    <item>
+      <title>Deep Learning for Fully Automated Prediction of Overall Survival in Patients Undergoing Resection for Pancreatic Cancer.</title>
+      <link>https://utayao.github.io/publication/yao-as-2022/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://utayao.github.io/publication/yao-as-2022/</guid>
+      <description>&lt;p&gt;Another pancreatic cancer work milestone for our group. Full-text will be available.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

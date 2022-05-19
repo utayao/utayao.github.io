@@ -5,7 +5,7 @@
     <link>/authors/et-al./</link>
       <atom:link href="/authors/et-al./index.xml" rel="self" type="application/rss+xml" />
     <description>et al.</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 10 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>et al.</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>DeepPrognosis: Preoperative Prediction of Pancreatic Cancer Survival and Surgical Margin via Contrast-Enhanced CT Imaging</title>
-      <link>/publication/yao-deepprog-2020/</link>
-      <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/yao-deepprog-2020/</guid>
-      <description></description>
+      <title>Deep Learning for Fully Automated Prediction of Overall Survival in Patients Undergoing Resection for Pancreatic Cancer.</title>
+      <link>/publication/yao-as-2022/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/yao-as-2022/</guid>
+      <description>&lt;p&gt;My co-first authorship clinical paper on oncology.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

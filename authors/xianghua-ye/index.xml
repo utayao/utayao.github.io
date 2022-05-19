@@ -5,12 +5,21 @@
     <link>https://utayao.github.io/authors/xianghua-ye/</link>
       <atom:link href="https://utayao.github.io/authors/xianghua-ye/index.xml" rel="self" type="application/rss+xml" />
     <description>Xianghua Ye</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 30 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Xianghua Ye</title>
       <link>https://utayao.github.io/authors/xianghua-ye/</link>
     </image>
+    
+    <item>
+      <title>Deep Learning for Fully Automated Prediction of Overall Survival in Patients Undergoing Resection for Pancreatic Cancer.</title>
+      <link>https://utayao.github.io/publication/yao-as-2022/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://utayao.github.io/publication/yao-as-2022/</guid>
+      <description>&lt;p&gt;Another pancreatic cancer work milestone for our group. Full-text will be available.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Deep learning for fully-automated prediction of overall survival in patients with oropharyngeal cancer using FDG PET imaging</title>
