@@ -5,7 +5,7 @@
     <link>https://utayao.github.io/</link>
       <atom:link href="https://utayao.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiawen Yao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jiawen Yao</title>
@@ -13,12 +13,58 @@
     </image>
     
     <item>
-      <title>Two papers accepted by MICCAI 2022</title>
+      <title>AI in Oncology</title>
+      <link>https://utayao.github.io/project/pancreas-project/</link>
+      <pubDate>Thu, 23 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://utayao.github.io/project/pancreas-project/</guid>
+      <description>&lt;h3 id=&#34;purpose&#34;&gt;Purpose:&lt;/h3&gt;
+&lt;p&gt;We published a recent study to develop a deep learning-based approach using non-contrast computed tomography (CT) scans for high-accuracy detection and classification of pancreatic lesions for the early detection and treatment of pancreatic ductal adenocarcinoma (PDAC).&lt;/p&gt;
+&lt;p&gt;Accurate prognostic stratification of patients with oropharyngeal squamous cell carcinoma (OPSCC) is crucial. We developed an objective and robust deep learning–based fully- automated tool called the DeepPET-OPSCC biomarker for predict- ing overall survival (OS) in OPSCC using [18F]fluorodeoxyglucose (FDG)-PET imaging.&lt;/p&gt;
+&lt;h3 id=&#34;study-design&#34;&gt;Study Design:&lt;/h3&gt;
+&lt;p&gt;Experimental Design: The DeepPET-OPSCC prediction model was built and tested internally on a discovery cohort (n=268) by integrating five convolutional neural network models for volumetric segmentation and ten models for OS prognostication. Two external test cohorts were enrolled—the first based on the Cancer Imaging Archive (TCIA) database (n=353) and the second being a clinical deployment cohort (n=31)—to assess the DeepPET-OPSCC performance and goodness of fit.&lt;/p&gt;
+&lt;h3 id=&#34;demo-code&#34;&gt;Demo Code:&lt;/h3&gt;
+&lt;p&gt;The DeepPET-OPSCC demo could be found 
+&lt;a href=&#34;https://github.com/deep-med/DeepPET-OPSCC-Example&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;ref&#34;&gt;Ref&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://www.nature.com/articles/s41591-023-02640-w&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Large-scale pancreatic cancer detection via non-contrast CT and deep learning&lt;/a&gt;, Nature Medicine, 2023&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://clincancerres.aacrjournals.org/content/early/2021/06/03/1078-0432.CCR-20-4935&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning for Fully Automated Prediction of Overall
+Survival in Patients with Oropharyngeal Cancer Using
+FDG-PET Imaging&lt;/a&gt;, Clinical Cancer Research, 2021, OnlineFirst.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Large-scale pancreatic cancer detection via non-contrast CT and deep learning</title>
+      <link>https://utayao.github.io/publication/yao-nm-2023/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://utayao.github.io/publication/yao-nm-2023/</guid>
+      <description>&lt;p&gt;AI and imaging-based cancer screening: getting ready for prime time.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effective Opportunistic Esophageal Cancer Screening using Noncontrast CT Imaging</title>
+      <link>https://utayao.github.io/publication/yao-miccai-2022/</link>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://utayao.github.io/publication/yao-miccai-2022/</guid>
+      <description>&lt;p&gt;Esophageal cancer screening using Non-contrast CT&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>One work accepted by Nature Medicine</title>
       <link>https://utayao.github.io/post/cvpr2021/</link>
       <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://utayao.github.io/post/cvpr2021/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;featured.jpg&#34; alt=&#34;title&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Two MICCAI 2022 papers accepted.&lt;/p&gt;
+      <description>&lt;p&gt;The first AI-driven screening for pancreatic cancer.&lt;/p&gt;
 </description>
     </item>
     
@@ -46,28 +92,6 @@
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://utayao.github.io/publication/yao-mediadeepprog-2021/</guid>
       <description>&lt;p&gt;MICCAI-MedIA (Medical Image Analysis) Special Issue of Best Papers in 2020&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AI in Oncology</title>
-      <link>https://utayao.github.io/project/pancreas-project/</link>
-      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/project/pancreas-project/</guid>
-      <description>&lt;h3 id=&#34;purpose&#34;&gt;Purpose:&lt;/h3&gt;
-&lt;p&gt;Accurate prognostic stratification of patients with oropharyngeal squamous cell carcinoma (OPSCC) is crucial. We developed an objective and robust deep learning–based fully- automated tool called the DeepPET-OPSCC biomarker for predict- ing overall survival (OS) in OPSCC using [18F]fluorodeoxyglucose (FDG)-PET imaging.&lt;/p&gt;
-&lt;h3 id=&#34;study-design&#34;&gt;Study Design:&lt;/h3&gt;
-&lt;p&gt;Experimental Design: The DeepPET-OPSCC prediction model was built and tested internally on a discovery cohort (n=268) by integrating five convolutional neural network models for volumetric segmentation and ten models for OS prognostication. Two external test cohorts were enrolled—the first based on the Cancer Imaging Archive (TCIA) database (n=353) and the second being a clinical deployment cohort (n=31)—to assess the DeepPET-OPSCC performance and goodness of fit.&lt;/p&gt;
-&lt;h3 id=&#34;demo-code&#34;&gt;Demo Code:&lt;/h3&gt;
-&lt;p&gt;The DeepPET-OPSCC demo could be found 
-&lt;a href=&#34;https://github.com/deep-med/DeepPET-OPSCC-Example&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&#34;ref&#34;&gt;Ref&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;a href=&#34;https://clincancerres.aacrjournals.org/content/early/2021/06/03/1078-0432.CCR-20-4935&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning for Fully Automated Prediction of Overall
-Survival in Patients with Oropharyngeal Cancer Using
-FDG-PET Imaging&lt;/a&gt;, Clinical Cancer Research, 2021, OnlineFirst.&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
