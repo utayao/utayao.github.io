@@ -2,83 +2,83 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Le Lu | Jiawen Yao</title>
-    <link>https://utayao.github.io/authors/le-lu/</link>
-      <atom:link href="https://utayao.github.io/authors/le-lu/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/le-lu/</link>
+      <atom:link href="/authors/le-lu/index.xml" rel="self" type="application/rss+xml" />
     <description>Le Lu</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 11 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Le Lu</title>
-      <link>https://utayao.github.io/authors/le-lu/</link>
+      <link>/authors/le-lu/</link>
     </image>
     
     <item>
       <title>Effective Opportunistic Esophageal Cancer Screening using Noncontrast CT Imaging</title>
-      <link>https://utayao.github.io/publication/yao-miccai-2022/</link>
+      <link>/publication/yao-miccai-2022/</link>
       <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-miccai-2022/</guid>
+      <guid>/publication/yao-miccai-2022/</guid>
       <description>&lt;p&gt;Esophageal cancer screening using Non-contrast CT&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep Learning for Fully Automated Prediction of Overall Survival in Patients Undergoing Resection for Pancreatic Cancer: A Retrospective Multicenter Study</title>
-      <link>https://utayao.github.io/publication/yao-as-2022/</link>
+      <link>/publication/yao-as-2022/</link>
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-as-2022/</guid>
+      <guid>/publication/yao-as-2022/</guid>
       <description>&lt;p&gt;Another pancreatic cancer work milestone for our group.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>DeepPrognosis: Preoperative Prediction of Pancreatic Cancer Survival and Surgical Margin via Comprehensive Understanding of Dynamic Contrast-Enhanced CT Imaging and Tumor-Vascular Contact Parsing</title>
-      <link>https://utayao.github.io/publication/yao-mediadeepprog-2021/</link>
+      <link>/publication/yao-mediadeepprog-2021/</link>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-mediadeepprog-2021/</guid>
+      <guid>/publication/yao-mediadeepprog-2021/</guid>
       <description>&lt;p&gt;MICCAI-MedIA (Medical Image Analysis) Special Issue of Best Papers in 2020&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>3D Graph Anatomy Geometry-Integrated Network for Pancreatic Mass Segmentation, Diagnosis, and Quantitative Patient Management</title>
-      <link>https://utayao.github.io/publication/zhao-cvpr-2021/</link>
+      <link>/publication/zhao-cvpr-2021/</link>
       <pubDate>Fri, 28 May 2021 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/zhao-cvpr-2021/</guid>
+      <guid>/publication/zhao-cvpr-2021/</guid>
       <description>&lt;p&gt;Nice work from our Intern.  It the first work to propose a multiphase CT imaging analysis method for the full-spectrum taxonomy of pancreatic mass/disease diagnosis.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep learning for fully-automated prediction of overall survival in patients with oropharyngeal cancer using FDG PET imaging</title>
-      <link>https://utayao.github.io/publication/yao-ccr-2021/</link>
+      <link>/publication/yao-ccr-2021/</link>
       <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-ccr-2021/</guid>
+      <guid>/publication/yao-ccr-2021/</guid>
       <description>&lt;p&gt;My co-first authorship clinical paper on oncology.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>DeepPrognosis: Preoperative Prediction of Pancreatic Cancer Survival and Surgical Margin via Contrast-Enhanced CT Imaging</title>
-      <link>https://utayao.github.io/publication/yao-deepprog-2020/</link>
+      <link>/publication/yao-deepprog-2020/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-deepprog-2020/</guid>
+      <guid>/publication/yao-deepprog-2020/</guid>
       <description>&lt;p&gt;A Contrast-Enhanced CT prediction model for PDAC.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Robust Pancreatic Ductal Adenocarcinoma Segmentation with Multi-Institutional Multi-Phase Partially-Annotated CT Scans</title>
-      <link>https://utayao.github.io/publication/zhang-pdac-2020/</link>
+      <link>/publication/zhang-pdac-2020/</link>
       <pubDate>Sat, 10 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/zhang-pdac-2020/</guid>
+      <guid>/publication/zhang-pdac-2020/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CT Data Curation for Liver Patients: Phase Recognition in Dynamic Contrast-Enhanced CT</title>
-      <link>https://utayao.github.io/publication/zhou-ct-2019/</link>
+      <link>/publication/zhou-ct-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/zhou-ct-2019/</guid>
+      <guid>/publication/zhou-ct-2019/</guid>
       <description></description>
     </item>
     

@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Jiawen Yao</title>
-    <link>https://utayao.github.io/post/</link>
-      <atom:link href="https://utayao.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 21 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>https://utayao.github.io/post/</link>
+      <link>/post/</link>
     </image>
     
     <item>
       <title>One work accepted by Nature Medicine</title>
-      <link>https://utayao.github.io/post/cvpr2021/</link>
+      <link>/post/cvpr2021/</link>
       <pubDate>Tue, 21 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/post/cvpr2021/</guid>
+      <guid>/post/cvpr2021/</guid>
       <description>&lt;p&gt;The first AI-driven screening for pancreatic cancer.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Our work get accepted by Annals of Surgery/Radiology</title>
-      <link>https://utayao.github.io/post/miccai20/</link>
+      <link>/post/miccai20/</link>
       <pubDate>Thu, 19 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/post/miccai20/</guid>
+      <guid>/post/miccai20/</guid>
       <description>&lt;p&gt;The work about automated survival prediction and lymph node metastasis in pancreatic cancer get accepted by Annals of Surgery / Radiology.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Work for oncology accepted by CCR</title>
-      <link>https://utayao.github.io/post/media20/</link>
+      <link>/post/media20/</link>
       <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/post/media20/</guid>
+      <guid>/post/media20/</guid>
       <description>&lt;p&gt;Deep learning for fully-automated prediction of overall survival in patients with oropharyngeal cancer using FDG PET imaging: an international retrospective study. Inference Model and Codes are available !&lt;/p&gt;
 </description>
     </item>

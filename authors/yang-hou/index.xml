@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yang Hou* | Jiawen Yao</title>
-    <link>https://utayao.github.io/authors/yang-hou/</link>
-      <atom:link href="https://utayao.github.io/authors/yang-hou/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/yang-hou/</link>
+      <atom:link href="/authors/yang-hou/index.xml" rel="self" type="application/rss+xml" />
     <description>Yang Hou*</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jul 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Yang Hou*</title>
-      <link>https://utayao.github.io/authors/yang-hou/</link>
+      <link>/authors/yang-hou/</link>
     </image>
     
     <item>
       <title>Deep Learning for Fully Automated Prediction of Overall Survival in Patients Undergoing Resection for Pancreatic Cancer: A Retrospective Multicenter Study</title>
-      <link>https://utayao.github.io/publication/yao-as-2022/</link>
+      <link>/publication/yao-as-2022/</link>
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-as-2022/</guid>
+      <guid>/publication/yao-as-2022/</guid>
       <description>&lt;p&gt;Another pancreatic cancer work milestone for our group.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>DeepPrognosis: Preoperative Prediction of Pancreatic Cancer Survival and Surgical Margin via Comprehensive Understanding of Dynamic Contrast-Enhanced CT Imaging and Tumor-Vascular Contact Parsing</title>
-      <link>https://utayao.github.io/publication/yao-mediadeepprog-2021/</link>
+      <link>/publication/yao-mediadeepprog-2021/</link>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-mediadeepprog-2021/</guid>
+      <guid>/publication/yao-mediadeepprog-2021/</guid>
       <description>&lt;p&gt;MICCAI-MedIA (Medical Image Analysis) Special Issue of Best Papers in 2020&lt;/p&gt;
 </description>
     </item>

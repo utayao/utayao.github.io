@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | Jiawen Yao</title>
-    <link>https://utayao.github.io/publication_types/2/</link>
-      <atom:link href="https://utayao.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>2</title>
-      <link>https://utayao.github.io/publication_types/2/</link>
+      <link>/publication_types/2/</link>
     </image>
     
     <item>
       <title>Large-scale pancreatic cancer detection via non-contrast CT and deep learning</title>
-      <link>https://utayao.github.io/publication/yao-nm-2023/</link>
+      <link>/publication/yao-nm-2023/</link>
       <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-nm-2023/</guid>
+      <guid>/publication/yao-nm-2023/</guid>
       <description>&lt;p&gt;AI and imaging-based cancer screening: getting ready for prime time.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep Learning for Fully Automated Prediction of Overall Survival in Patients Undergoing Resection for Pancreatic Cancer: A Retrospective Multicenter Study</title>
-      <link>https://utayao.github.io/publication/yao-as-2022/</link>
+      <link>/publication/yao-as-2022/</link>
       <pubDate>Mon, 04 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-as-2022/</guid>
+      <guid>/publication/yao-as-2022/</guid>
       <description>&lt;p&gt;Another pancreatic cancer work milestone for our group.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>DeepPrognosis: Preoperative Prediction of Pancreatic Cancer Survival and Surgical Margin via Comprehensive Understanding of Dynamic Contrast-Enhanced CT Imaging and Tumor-Vascular Contact Parsing</title>
-      <link>https://utayao.github.io/publication/yao-mediadeepprog-2021/</link>
+      <link>/publication/yao-mediadeepprog-2021/</link>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-mediadeepprog-2021/</guid>
+      <guid>/publication/yao-mediadeepprog-2021/</guid>
       <description>&lt;p&gt;MICCAI-MedIA (Medical Image Analysis) Special Issue of Best Papers in 2020&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep learning for fully-automated prediction of overall survival in patients with oropharyngeal cancer using FDG PET imaging</title>
-      <link>https://utayao.github.io/publication/yao-ccr-2021/</link>
+      <link>/publication/yao-ccr-2021/</link>
       <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-ccr-2021/</guid>
+      <guid>/publication/yao-ccr-2021/</guid>
       <description>&lt;p&gt;My co-first authorship clinical paper on oncology.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Whole Slide Images based Cancer Survival Prediction using Attention Guided Deep Multiple Instance Learning Networks</title>
-      <link>https://utayao.github.io/publication/yao-whole-2020/</link>
+      <link>/publication/yao-whole-2020/</link>
       <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-whole-2020/</guid>
+      <guid>/publication/yao-whole-2020/</guid>
       <description>&lt;p&gt;This is an improved version of our 
 &lt;a href=&#34;https://link.springer.com/chapter/10.1007/978-3-030-32239-7_55&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MICCAI 19&lt;/a&gt; work. Most cited articles of MedIA since 2020.&lt;/p&gt;
 </description>
@@ -60,34 +60,34 @@
     
     <item>
       <title>A simple primal-dual algorithm for nuclear norm and total variation regularization</title>
-      <link>https://utayao.github.io/publication/zhu-simple-2018/</link>
+      <link>/publication/zhu-simple-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/zhu-simple-2018/</guid>
+      <guid>/publication/zhu-simple-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An efficient algorithm for dynamic MRI using low-rank and total variation regularizations</title>
-      <link>https://utayao.github.io/publication/yao-efficient-2018/</link>
+      <link>/publication/yao-efficient-2018/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-efficient-2018/</guid>
+      <guid>/publication/yao-efficient-2018/</guid>
       <description>&lt;p&gt;The extension version of MICCAI 2015. MATLAB Code is available.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Background subtraction using spatio-temporal group sparsity recovery</title>
-      <link>https://utayao.github.io/publication/liu-background-2017/</link>
+      <link>/publication/liu-background-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/liu-background-2017/</guid>
+      <guid>/publication/liu-background-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Background subtraction based on low-rank and structured sparse decomposition</title>
-      <link>https://utayao.github.io/publication/liu-background-2015/</link>
+      <link>/publication/liu-background-2015/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/liu-background-2015/</guid>
+      <guid>/publication/liu-background-2015/</guid>
       <description>&lt;p&gt;Extension of ICME 2014, MATLAB code is available.&lt;/p&gt;
 </description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chun-Ta Liao | Jiawen Yao</title>
-    <link>https://utayao.github.io/authors/chun-ta-liao/</link>
-      <atom:link href="https://utayao.github.io/authors/chun-ta-liao/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/chun-ta-liao/</link>
+      <atom:link href="/authors/chun-ta-liao/index.xml" rel="self" type="application/rss+xml" />
     <description>Chun-Ta Liao</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Chun-Ta Liao</title>
-      <link>https://utayao.github.io/authors/chun-ta-liao/</link>
+      <link>/authors/chun-ta-liao/</link>
     </image>
     
     <item>
       <title>Deep learning for fully-automated prediction of overall survival in patients with oropharyngeal cancer using FDG PET imaging</title>
-      <link>https://utayao.github.io/publication/yao-ccr-2021/</link>
+      <link>/publication/yao-ccr-2021/</link>
       <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-ccr-2021/</guid>
+      <guid>/publication/yao-ccr-2021/</guid>
       <description>&lt;p&gt;My co-first authorship clinical paper on oncology.&lt;/p&gt;
 </description>
     </item>

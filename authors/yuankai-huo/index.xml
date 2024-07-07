@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuankai Huo | Jiawen Yao</title>
-    <link>https://utayao.github.io/authors/yuankai-huo/</link>
-      <atom:link href="https://utayao.github.io/authors/yuankai-huo/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/yuankai-huo/</link>
+      <atom:link href="/authors/yuankai-huo/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuankai Huo</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://utayao.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Yuankai Huo</title>
-      <link>https://utayao.github.io/authors/yuankai-huo/</link>
+      <link>/authors/yuankai-huo/</link>
     </image>
     
     <item>
       <title>Deep learning for fully-automated prediction of overall survival in patients with oropharyngeal cancer using FDG PET imaging</title>
-      <link>https://utayao.github.io/publication/yao-ccr-2021/</link>
+      <link>/publication/yao-ccr-2021/</link>
       <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://utayao.github.io/publication/yao-ccr-2021/</guid>
+      <guid>/publication/yao-ccr-2021/</guid>
       <description>&lt;p&gt;My co-first authorship clinical paper on oncology.&lt;/p&gt;
 </description>
     </item>
